@@ -13,7 +13,7 @@
  * @since 1.0.0
  *
  * Plugin Name: Affiliates Current URL
- * Plugin URI: https://github.com/geotsiokos/affiliates_current_url_shortcode
+ * Plugin URI: https://github.com/geotsiokos/affiliates-current-url-shortcode
  * Description: Displays the current affiliate URL of the logged in affiliate.
  * Author: gtsiokos
  * Author URI: http://www.netpad.gr/
